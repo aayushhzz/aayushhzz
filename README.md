@@ -3,11 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aayushhzz&color=blue)
 
 ## About Me
-- 🔭 Working on open source projects in Rust, JavaScript, and Web3.
-- 🌱 Learning advanced Rust and decentralized app development.
+- 🔭 Working on open source projects in Rust, JavaScript, and GoLang.
 - 👯 Open to collaborating on innovative tech projects.
 - 🤔 Always open to quirky advice—tech, life, or a good meme is welcome!
-- 💬 I speak code, coffee, and skibidi!! – ask me anything!
 - 📫 Reach me at: [aayush.0217@gmail.com](mailto:aayush.0217@gmail.com)
 - ⚡ Fun fact: I turn challenges into elegant code.
 
